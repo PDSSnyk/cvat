@@ -27,7 +27,7 @@
     "ts-jest": "26"
   },
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.7.8",
     "browser-or-node": "^2.0.0",
     "cvat-data": "link:./../cvat-data",
     "detect-browser": "^5.2.1",
